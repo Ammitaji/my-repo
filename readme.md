@@ -7,3 +7,5 @@ my first repository.!
 additions to my repo
 
 i am an intern
+
+today is thursday 
